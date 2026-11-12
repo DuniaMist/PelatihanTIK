@@ -5,12 +5,12 @@ body {
 }
 
 .Foto-Profl {
-    width: 300px;
-    margin: 50px auto /* 50px jarak atas/bawah, auto mengarahkan kiri/kanan*/
-    padding: 20px;
+    width: 320px;
+    margin: 80px auto /* 50px jarak atas/bawah, auto mengarahkan kiri/kanan*/
+    padding: 30px;
     background-color: white;
-    border-rasius: 15px; /* Membuat sudut melengkung*/
-    box-shadow: 0 4px 8px rgba(0,0,0,0,1); /* Mengarahkan semua text di dalam kartu*/
+    border-rasius: 30px; /* Membuat sudut melengkung*/
+    box-shadow: 0 6px 10px rgba(0,0,0,0,1); /* Mengarahkan semua text di dalam kartu*/
     text-align: center; /* Menengahkan semua text di dalam kartu*/
 }
 
