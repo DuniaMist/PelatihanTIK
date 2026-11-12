@@ -1,0 +1,20 @@
+body {
+    background-color: #FFFFE0; /* Warna kuning cerah*/
+    font-family: Arial, sans-serif; /* Jenis huruf yangbersih dan mudah di baca*/
+    color: #191970; /* Warna teks utama (Biru Gelp) */
+}
+
+.kartu profil {
+    width: 300px;
+    margin: 50px auto /* 50px jarak atas/bawah, auto mengarahkan kiri/kanan*/
+    padding: 20px;
+    background-color: white;
+    border-rasius: 15px; /* Membuat sudut melengkung*/
+    box-shadow: 0 4px 8px rgba(0,0,0,0,1); /* Mengarahkan semua text di dalam kartu*/
+    text-align: center; /* Menengahkan semua text di dalam kartu*/
+}
+
+.kartu-profil img {
+    width: 150px;
+    border-radius: 50%; /* Trik untuk membuat gambar persegi menjadi lingkaran sempurna*/
+}
